@@ -173,11 +173,11 @@ npm run test:run
 
 | Светлая тема |
 
-![Main](./pic/screenshot-light.png)
+![Светлая тема](./pic/screenshot-light.png)
 
 | Тёмная тема |
 
-![Main](./pic/screenshot-dark.png)
+![Тёмная тема](./pic/screenshot-dark.png)
 
 ## Известные ограничения
 
